@@ -4,6 +4,8 @@ Accompanying repository for the [QConSF 2018](http://qconsf.com/sf2018/speakers/
 # Abstract
 Giving--and receiving--feedback is hard, especially when we perceive the feedback to be negative. We put it off, and then make the feedback conversation a bigger deal than originally intended. How can you avoid this pitfall and learn to be more comfortable with feedback? This talk uses empirical research, practical tips, and parodied song lyrics around how to be a better feedback receiver and become more effective in giving feedback. 
 
+# SBI Feedback Planner
+The [SBI feedback planner](https://github.com/thesarahhagan/QConSF-Youve_Lost_That_Leader_Feelin/blob/worksheets/Feedback_Planner_SBI.pdf) is adapted from the [Center for Creative Leadership](https://www.ccl.org/) and modeled after the BMGF feedback planner. For more information on sources, email Sarah at sarahlakehagan@gmail.com. 
 
 # References and Other Resources
 ### Research on Social Pain (Negative Feedback!)
