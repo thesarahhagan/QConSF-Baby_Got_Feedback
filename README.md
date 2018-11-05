@@ -1,5 +1,5 @@
 # Baby Got Feedback: How to Give and Take Feedback Like A Boss.
-Accompanying repository for the [QConSF 2018](http://qconsf.com/sf2018/speakers/sarah-hagan) conference. 
+Accompanying repository for the [QConSF 2018](http://qconsf.com/sf2018/speakers/sarah-hagan) conference. [Slides can be found here.](https://speakerdeck.com/thesarahhagan/baby-got-feedback-how-to-give-and-take-feedback-like-a-boss)
 
 # Abstract
 Giving--and receiving--feedback is hard, especially when we perceive the feedback to be negative. We put it off, and then make the feedback conversation a bigger deal than originally intended. How can you avoid this pitfall and learn to be more comfortable with feedback? This talk uses empirical research, practical tips, and parodied song lyrics around how to be a better feedback receiver and become more effective in giving feedback. 
