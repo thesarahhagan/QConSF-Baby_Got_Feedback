@@ -16,8 +16,10 @@ Giving--and receiving--feedback is hard, especially when we perceive the feedbac
 ### Fun Reads about Feedback and Transparency
 * [I Think You're Fat](https://www.esquire.com/news-politics/a26792/honesty0707/) by AJ Jacobs about 'Radical Honesty'
 
-### Giving Feedback and Having Tough Conversations:
+### Getting Feedback
 * [Thanks for the Feedback: The Science and Art of Receiving Feedback Well](https://www.amazon.com/Thanks-Feedback-Science-Receiving-Well/dp/0143127136) by Stone & Heen, 2015
+
+### Giving Feedback and Having Tough Conversations:
 * Kim Scott's [Radical Candor](https://www.radicalcandor.com/)
 * [The Sandwich Feedback Method: Not Very Tasty](http://aabri.com/manuscripts/141831.pdf) by Von Bergen et al., 2014
 * Practicing [Collaborative Communication](https://www.wikihow.com/Practice-Nonviolent-Communication)
