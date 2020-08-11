@@ -19,7 +19,7 @@ The [SBI feedback planner](https://github.com/thesarahhagan/QConSF-Youve_Lost_Th
 * [I Think You're Fat](https://www.esquire.com/news-politics/a26792/honesty0707/) by AJ Jacobs about 'Radical Honesty'
 
 ### Getting Feedback
-* [Thanks for the Feedback: The Science and Art of Receiving Feedback Well](https://www.amazon.com/Thanks-Feedback-Science-Receiving-Well/dp/0143127136) by Stone & Heen, 2015
+* [Thanks for the Feedback: The Science and Art of Receiving Feedback Well](https://www.amazon.com/Thanks-Feedback-Science-Receiving-Well/dp/0143127136) by Stone & Heen, 2015; notes can be found [here](https://gracelead.files.wordpress.com/2016/07/thanks-for-the-feedback-guide.pdf) from GraceLead.Co
 
 ### Giving Feedback and Having Tough Conversations:
 * Kim Scott's [Radical Candor](https://www.radicalcandor.com/)
